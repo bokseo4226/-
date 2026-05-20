@@ -1,0 +1,6 @@
+{
+  "name": "Culinary Assistant",
+  "description": "An AI-powered recipe generator that identifies ingredients by scanning your fridge and provides hands-free cooking guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
